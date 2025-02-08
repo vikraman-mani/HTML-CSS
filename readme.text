@@ -1,0 +1,7 @@
+Create Simple loader using CSS 
+
+1. Create Div tag with circular shape and thick border from one end (left/right/top/bottom)
+
+2. To make it Spin create an Animation which transform it from 0deg to 360 deg
+
+3. Add Animation property to loader with infinite duration.
